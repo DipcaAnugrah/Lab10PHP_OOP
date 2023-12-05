@@ -502,7 +502,7 @@ Implementasikan konsep modularisasi pada kode program pada praktikum sebelumnya 
 
 ## **Result**
 
-https://github.com/dipca0895/Lab10PHP_OOP/blob/main/video/demo.mkv
+https://github.com/dipca0895/Lab10PHP_OOP/assets/115719283/13454a76-139d-445a-b616-e21a5268f410
 
 <hr>
 
